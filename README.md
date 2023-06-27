@@ -1,3 +1,3 @@
-mateus noleto dos santos
-lucas souza guedes
-mateus rodrigues da silva
+Mateus Noleto dos Santos,
+Lucas Souza Guedes,
+Mateus Rodrigues da Silva.
